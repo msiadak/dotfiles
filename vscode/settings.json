@@ -1,0 +1,7 @@
+{
+    "editor.fontFamily": "Hack, monospace, Symbola",
+    "editor.fontSize": 12,
+    "editor.tabSize": 2,
+    "editor.rulers": [80],
+    "editor.formatOnSave": true
+}
